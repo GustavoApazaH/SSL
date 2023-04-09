@@ -1,0 +1,8 @@
+- Autor de la resolución:
+  - Usuario github: GustavoApazaH
+  - Legajo: 144.093-7
+  - Apellidos: Apaza Huanca
+  - Nombre: Gustavo
+- Numero y titulo del trabajo: 00-CHelloWorld
+- Transcripción del enunciado: "Hello, World!” en C
+- Hipótesis:
