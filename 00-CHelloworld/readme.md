@@ -6,3 +6,4 @@
 - Numero y titulo del trabajo: 00-CHelloWorld
 - Transcripción del enunciado: "Hello, World!” en C
 - Hipótesis:
+- Compilador: C18
